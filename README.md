@@ -1,5 +1,6 @@
 # nbodylab
 
+![CI](https://github.com/Maxter1476/nbodylab/actions/workflows/ci.yml/badge.svg)
 **Symplectic N-body dynamics with analytic and literature anchors: Kepler
 invariants, the leapfrog-vs-RK4 energy story, and the Chenciner–Montgomery
 figure-eight choreography.**
