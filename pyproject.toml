@@ -8,7 +8,6 @@ version = "0.1.0"
 description = "Symplectic N-body dynamics: leapfrog vs RK4 energy behaviour, Kepler invariants, and the figure-eight choreography"
 readme = "README.md"
 requires-python = ">=3.10"
-license = { text = "MIT" }
 dependencies = ["numpy>=1.24"]
 
 [project.optional-dependencies]

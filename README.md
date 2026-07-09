@@ -50,7 +50,3 @@ Regenerate the figure: `python examples/showcase.py`.
 pytest -q     # 9 tests
 ruff check .
 ```
-
-## License
-
-MIT
